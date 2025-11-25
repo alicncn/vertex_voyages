@@ -1,0 +1,11 @@
+# Vertex Voyages - Travel Planning System
+# Core dependencies
+
+# Google ADK for agent orchestration
+google-adk>=0.1.0
+
+# MCP integration (optional)
+mcp>=0.1.0
+
+# Standard dependencies
+python-dotenv>=1.0.0
